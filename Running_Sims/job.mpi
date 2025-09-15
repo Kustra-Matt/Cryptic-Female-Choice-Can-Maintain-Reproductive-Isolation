@@ -1,0 +1,12 @@
+#!/bin/bash
+#SBATCH --output=tester
+#SBATCH --error=jobEE
+#SBATCH --partition=128x24
+#SBATCH --nodes=1
+#SBATCH --job-name=CSP_RI_EE
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=xxx
+#SBATCH --mem=120GB
+#SBATCH --ntasks-per-node=24
+
+LD_LIBRARY_PATH="" ~/julia-1.9.2/bin/julia Risk_Simulation_Code.jl
