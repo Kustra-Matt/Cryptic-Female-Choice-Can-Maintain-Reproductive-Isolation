@@ -1,6 +1,6 @@
-# Data from: Cryptic female choice can maintain reproductive isolation
+# Code from: Cryptic female choice can maintain reproductive isolation
 
-Description of code and data files affiliated with Kustra et al. (2025) **"Cryptic female choice can maintain reproductive isolation"**. All code files (.jl or .R) are uploaded on Zenodo in **"Code.zip"** and all data files are uploaded on dryad in the following zip files: **"Data-sel.zip", "RSQ.zip", "Data*n.zip", "MigrantMating.zip", "**Data_n.zip***", "***Processed_Data_2.zip***", "***Processed_Data_2H.zip***", "***Processed_Data_4.zip***", "***Processed_Data_4H.zip***", "***Processed_Data_cor.zip***", and  "***Processed_DataND.zip***".
+Description of code and data files affiliated with Kustra et al. (2025) **"Cryptic female choice can maintain reproductive isolation"**. https://academic.oup.com/evolut/advance-article/doi/10.1093/evolut/qpaf156/8217261 All code files (.jl or .R) are uploaded here and all data files are uploaded on dryad (https://doi.org/10.5061/dryad.ksn02v7db) in the following zip files: **"Data-sel.zip", "RSQ.zip", "Data*n.zip", "MigrantMating.zip", "**Data_n.zip***", "***Processed_Data_2.zip***", "***Processed_Data_2H.zip***", "***Processed_Data_4.zip***", "***Processed_Data_4H.zip***", "***Processed_Data_cor.zip***", and  "***Processed_DataND.zip***".
 
 For questions, contact: Matthew Kustra: [matthewckustra@gmail.com](mailto:matthewckustra@gmail.com)
 
